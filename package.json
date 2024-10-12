@@ -1,5 +1,5 @@
 {
-  "name": "react-native-video-trim",
+  "name": "@renpho/react-native-video-trim",
   "version": "2.2.7",
   "description": "Video trimmer for your React Native app",
   "main": "lib/commonjs/index",
